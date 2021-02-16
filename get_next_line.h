@@ -6,7 +6,7 @@
 /*   By: selin <selin@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/02/10 17:53:08 by selin             #+#    #+#             */
-/*   Updated: 2021/02/16 23:33:39 by selchoi          ###   ########.fr       */
+/*   Updated: 2021/02/16 23:39:50 by selchoi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,5 +18,4 @@
 # include <fcntl.h>
 
 int	get_next_line(int fd, char **line);
-
 #endif
